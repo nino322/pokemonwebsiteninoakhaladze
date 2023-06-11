@@ -1,1 +1,6 @@
 # pokemonwebsiteninoakhaladze
+
+# HTML
+
+# CSS
+# JS
